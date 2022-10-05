@@ -1,5 +1,5 @@
 # Minecraft-Game
 Minecraft game using ReactJs and NextJs
 
-#Link to Play
+# Link to Play
 https://minecraft-game-368ef.web.app/
