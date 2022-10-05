@@ -5,4 +5,5 @@ Minecraft game using ReactJs and NextJs
 https://minecraft-game-368ef.web.app/
 
 # ScreenShot
-![image](https://user-images.githubusercontent.com/91867197/194066697-b16bfdfd-fea7-49c9-9161-4ea25d12cc57.png)
+![Screenshot (1016)](https://user-images.githubusercontent.com/91867197/194067078-afd3c42b-e82a-4dd0-8408-65c8ca195e72.png)
+
